@@ -103,20 +103,20 @@ members = [
     Member("Rahim", 18, "Beginner", "m1"),
     Member("Karim", 19, "Pro", "m2"),
     Member("Sajid", 20, "Expert", "m3"),
-    Member("Nadia", 21, "Educated", "m4"),
+    Member("Ahnaf", 21, "Educated", "m4"),
     Member("Rafi", 22, "Trained", "m5"),
     Member("Hasan", 23, "Beginner", "m6"),
-    Member("Mitu", 24, "Pro", "m7"),
-    Member("Shila", 25, "Expert", "m8"),
+    Member("Michel", 24, "Pro", "m7"),
+    Member("Afnan", 25, "Expert", "m8"),
     Member("Babul", 26, "Educated", "m9"),
-    Member("Tania", 27, "Trained", "m10")
+    Member("Tahsin", 27, "Trained", "m10")
 ]
 
 mentors = [
     Mentor("Mr. Smith", 35, "Junior", "mt1", "2 years"),
     Mentor("Mr. Harper", 36, "Senior", "mt2", "3 years"),
     Mentor("Mr. Mohsin", 37, "Junior", "mt3", "4 years"),
-    Mentor("Mr. Rayhan", 38, "Senior", "mt4", "5 years"),
+    Mentor("Mr. Harrison", 38, "Senior", "mt4", "5 years"),
     Mentor("Mr. Jamal", 39, "Junior", "mt5", "6 years")
 ]
 
