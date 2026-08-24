@@ -1,0 +1,9 @@
+split 
+strip
+lstrip
+rstrip
+lower
+upper
+title
+indexing
+slicing
