@@ -12,7 +12,7 @@ import time
 # Email sending function (takes body, subject, receiver)
 def mail_sender(name, body, subject, receiver):
     sender = "jobayerhasanshiplu@gmail.com"
-    app_password = "eovd ozwp uyud pskh"
+    app_password = "----------------------"
 
     msg = EmailMessage()
     msg['Subject'] = subject
@@ -31,7 +31,7 @@ def mail_sender(name, body, subject, receiver):
 
 # Currency exchange rate function 💰
 def currency_auto():
-    api_key = "cur_live_bHpelBdV9C9b3x9X7BXJysHbEKU5e7nqf0sQIlKT"
+    api_key = "-----------------------------------"
     url = f"https://api.currencyapi.com/v3/latest?apikey={api_key}&base_currency=USD&currencies=BDT,EUR,INR,GBP,CAD,AUD,JPY,CNY,SAR,AED,CHF,PKR,NZD,SGD,HKD,KRW,THB,MYR,RUB,TRY,ZAR,NGN,EGP"
 
     response = requests.get(url)
